@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("daodiyaoqiaoduoshaocijianpancainengxuehuijisuanji!\n");
+    printf("feature!\n");
 }
